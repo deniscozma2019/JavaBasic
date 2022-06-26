@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="760185dd-4635-4c42-8229-ed2166ebf8ea" name="Changes" comment="ex 2">
-      <change afterPath="$PROJECT_DIR$/src/ex_3/ex3.java" afterDir="false" />
+    <list default="true" id="760185dd-4635-4c42-8229-ed2166ebf8ea" name="Changes" comment="ex 3">
+      <change afterPath="$PROJECT_DIR$/src/ex_4/Ex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_5/ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_6/ex6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +45,20 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ex3">
+  <component name="RunManager" selected="Application.ex5">
+    <configuration name="Ex4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_4.Ex4" />
+      <module name="learning the basics of java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_1.Main" />
       <module name="learning the basics of java" />
@@ -70,8 +85,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ex5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_5.ex5" />
+      <module name="learning the basics of java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ex5" />
+        <item itemvalue="Application.Ex4" />
         <item itemvalue="Application.ex3" />
         <item itemvalue="Application.Main" />
       </list>
@@ -87,7 +117,7 @@
       <updated>1656185070306</updated>
       <workItem from="1656185117869" duration="3602000" />
       <workItem from="1656228748721" duration="664000" />
-      <workItem from="1656251895244" duration="1906000" />
+      <workItem from="1656251895244" duration="2576000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1656186072145</created>
@@ -124,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656254471830</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ex 3">
+      <created>1656255090999</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656255090999</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,7 +182,8 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="ex 1" />
     <MESSAGE value="ex 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="ex 2" />
+    <MESSAGE value="ex 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
