@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="760185dd-4635-4c42-8229-ed2166ebf8ea" name="Changes" comment="Strings">
-      <change afterPath="$PROJECT_DIR$/src/Math/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Math/Ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Math/Ex3.java" afterDir="false" />
+    <list default="true" id="760185dd-4635-4c42-8229-ed2166ebf8ea" name="Changes" comment="Math">
+      <change afterPath="$PROJECT_DIR$/src/Booleans/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Booleans/Ex2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +44,20 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex3">
+  <component name="RunManager" selected="Application.IF_Else.Ex1">
+    <configuration name="Booleans.Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Booleans.Ex1" />
+      <module name="learning the basics of java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Booleans.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Math.Ex1" />
       <module name="learning the basics of java" />
@@ -85,25 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.Ex5" />
+    <configuration name="IF_Else.Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IF_Else.Ex1" />
       <module name="learning the basics of java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.Ex6" />
-      <module name="learning the basics of java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Strings.*" />
+          <option name="PATTERN" value="IF_Else.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IF_Else.Ex1" />
+        <item itemvalue="Application.Booleans.Ex1" />
         <item itemvalue="Application.Ex3" />
         <item itemvalue="Application.Ex2" />
         <item itemvalue="Application.Ex1" />
-        <item itemvalue="Application.Ex6" />
-        <item itemvalue="Application.Ex5" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +130,7 @@
       <updated>1656185070306</updated>
       <workItem from="1656185117869" duration="3602000" />
       <workItem from="1656228748721" duration="664000" />
-      <workItem from="1656251895244" duration="7086000" />
+      <workItem from="1656251895244" duration="8894000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1656186072145</created>
@@ -203,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656260029812</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Math">
+      <created>1656261678104</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1656261678104</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,7 +235,8 @@
     <MESSAGE value="ex7 -&gt; 12" />
     <MESSAGE value="ex13 -&gt; 14" />
     <MESSAGE value="Strings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Strings" />
+    <MESSAGE value="Math" />
+    <option name="LAST_COMMIT_MESSAGE" value="Math" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
