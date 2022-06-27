@@ -1,9 +1,9 @@
 package Syntax;
 
-public class ex_13 {
+public class Ex14 {
     public static void  main(String[] args){
-        int x = 5;
-        x++;
+        int x = 10;
+        x+=5;
         System.out.println(x);
     }
 }
