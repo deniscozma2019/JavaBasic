@@ -1,4 +1,4 @@
-package ex_8;
+package Syntax;
 public class Ex8 {
     public static void main(String[] args){
     int myNum = 9;

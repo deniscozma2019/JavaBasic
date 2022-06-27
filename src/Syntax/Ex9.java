@@ -1,4 +1,4 @@
-package ex_9;
+package Syntax;
 
 public class Ex9 {
     // primitive

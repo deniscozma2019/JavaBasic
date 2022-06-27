@@ -1,4 +1,4 @@
-package ex_13;
+package Syntax;
 
 public class ex_13 {
     public static void  main(String[] args){

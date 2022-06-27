@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="760185dd-4635-4c42-8229-ed2166ebf8ea" name="Changes" comment=" if else">
-      <change afterPath="$PROJECT_DIR$/src/Switch/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Switch/Ex2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="760185dd-4635-4c42-8229-ed2166ebf8ea" name="Changes" comment="Switch">
+      <change beforePath="$PROJECT_DIR$/src/ex_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Syntax/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10/Ex10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Syntax/Ex10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_11/ex11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Syntax/ex11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_12/ex12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Syntax/ex12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13/ex_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Syntax/ex_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14/ex14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Syntax/ex14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Syntax/Ex2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_3/ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Syntax/ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_4/Ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Syntax/Ex4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_5/ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Syntax/ex5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_6/ex6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Syntax/ex6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_7/ex7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Syntax/ex7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_8/Ex8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Syntax/Ex8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_9/Ex9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Syntax/Ex9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +142,7 @@
       <workItem from="1656185117869" duration="3602000" />
       <workItem from="1656228748721" duration="664000" />
       <workItem from="1656251895244" duration="12676000" />
-      <workItem from="1656318379242" duration="1770000" />
+      <workItem from="1656318379242" duration="2355000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1656186072145</created>
@@ -224,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656272724636</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Switch">
+      <created>1656323476675</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1656323476675</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,13 +272,14 @@
     <MESSAGE value="Bools and if else" />
     <MESSAGE value="Bool and if else" />
     <MESSAGE value=" if else" />
-    <option name="LAST_COMMIT_MESSAGE" value=" if else" />
+    <MESSAGE value="Switch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Switch" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/ex_3/ex3.java</url>
+          <url>file://$PROJECT_DIR$/src/Syntax/ex3.java</url>
           <line>3</line>
           <properties class="ex_3.ex3" method="main">
             <option name="EMULATED" value="true" />
