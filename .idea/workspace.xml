@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="760185dd-4635-4c42-8229-ed2166ebf8ea" name="Changes" comment="Switch">
-      <change beforePath="$PROJECT_DIR$/src/ex_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Syntax/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_10/Ex10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Syntax/Ex10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_11/ex11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Syntax/ex11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_12/ex12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Syntax/ex12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_13/ex_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Syntax/ex_13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_14/ex14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Syntax/ex14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Syntax/Ex2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_3/ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Syntax/ex3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_4/Ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Syntax/Ex4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_5/ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Syntax/ex5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_6/ex6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Syntax/ex6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_7/ex7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Syntax/ex7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_8/Ex8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Syntax/Ex8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_9/Ex9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Syntax/Ex9.java" afterDir="false" />
+    <list default="true" id="760185dd-4635-4c42-8229-ed2166ebf8ea" name="Changes" comment="restructuring">
+      <change afterPath="$PROJECT_DIR$/src/Loops/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/Ex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/Ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/Ex6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,26 +48,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex2">
-    <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Switch.Ex1" />
+  <component name="RunManager" selected="Application.Ex6">
+    <configuration name="Ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.Ex3" />
       <module name="learning the basics of java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Switch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Switch.Ex2" />
-      <module name="learning the basics of java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Switch.*" />
+          <option name="PATTERN" value="Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,11 +63,11 @@
       </method>
     </configuration>
     <configuration name="Ex4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IF_Else.Ex4" />
+      <option name="MAIN_CLASS_NAME" value="Loops.Ex4" />
       <module name="learning the basics of java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IF_Else.*" />
+          <option name="PATTERN" value="Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,11 +76,11 @@
       </method>
     </configuration>
     <configuration name="Ex5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IF_Else.Ex5" />
+      <option name="MAIN_CLASS_NAME" value="Loops.Ex5" />
       <module name="learning the basics of java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IF_Else.*" />
+          <option name="PATTERN" value="Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +88,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IF_Else.Ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IF_Else.Ex3" />
+    <configuration name="Ex6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.Ex6" />
       <module name="learning the basics of java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IF_Else.*" />
+          <option name="PATTERN" value="Loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Loops.Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.Ex1" />
+      <module name="learning the basics of java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex2" />
-        <item itemvalue="Application.Ex1" />
+        <item itemvalue="Application.Ex6" />
         <item itemvalue="Application.Ex5" />
         <item itemvalue="Application.Ex4" />
-        <item itemvalue="Application.IF_Else.Ex3" />
+        <item itemvalue="Application.Ex3" />
+        <item itemvalue="Application.Loops.Ex1" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +135,7 @@
       <workItem from="1656185117869" duration="3602000" />
       <workItem from="1656228748721" duration="664000" />
       <workItem from="1656251895244" duration="12676000" />
-      <workItem from="1656318379242" duration="2355000" />
+      <workItem from="1656318379242" duration="4801000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1656186072145</created>
@@ -242,7 +235,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656323476675</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="restructuring">
+      <created>1656323892093</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1656323892093</updated>
+    </task>
+    <task id="LOCAL-00016" summary="restructuring">
+      <created>1656324087216</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1656324087216</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,15 +280,16 @@
     <MESSAGE value="Bool and if else" />
     <MESSAGE value=" if else" />
     <MESSAGE value="Switch" />
-    <option name="LAST_COMMIT_MESSAGE" value="Switch" />
+    <MESSAGE value="restructuring" />
+    <option name="LAST_COMMIT_MESSAGE" value="restructuring" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Syntax/ex3.java</url>
+          <url>file://$PROJECT_DIR$/src/Syntax/Ex3.java</url>
           <line>3</line>
-          <properties class="ex_3.ex3" method="main">
+          <properties class="Syntax.Ex3" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
