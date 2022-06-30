@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="760185dd-4635-4c42-8229-ed2166ebf8ea" name="Changes" comment="Arrays">
-      <change afterPath="$PROJECT_DIR$/src/Methods/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/Ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/Ex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/Ex4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/Ex5.java" afterDir="false" />
+    <list default="true" id="760185dd-4635-4c42-8229-ed2166ebf8ea" name="Changes" comment="Methods">
+      <change afterPath="$PROJECT_DIR$/src/Syntax/Ex15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +43,20 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex5">
+  <component name="RunManager" selected="Application.Ex15">
+    <configuration name="Ex15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Syntax.Ex15" />
+      <module name="learning the basics of java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Syntax.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Methods.Ex2" />
       <module name="learning the basics of java" />
@@ -100,26 +109,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Methods.Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods.Ex1" />
-      <module name="learning the basics of java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Methods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex15" />
         <item itemvalue="Application.Ex5" />
         <item itemvalue="Application.Ex4" />
         <item itemvalue="Application.Ex3" />
         <item itemvalue="Application.Ex2" />
-        <item itemvalue="Application.Methods.Ex1" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +130,8 @@
       <workItem from="1656185117869" duration="3602000" />
       <workItem from="1656228748721" duration="664000" />
       <workItem from="1656251895244" duration="12676000" />
-      <workItem from="1656318379242" duration="9660000" />
+      <workItem from="1656318379242" duration="10401000" />
+      <workItem from="1656574731599" duration="2389000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1656186072145</created>
@@ -262,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656329535117</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Methods">
+      <created>1656332870517</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1656332870518</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -296,7 +300,8 @@
     <MESSAGE value="restructuring" />
     <MESSAGE value="Loops" />
     <MESSAGE value="Arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arrays" />
+    <MESSAGE value="Methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Methods" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -330,7 +335,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Methods/Ex5.java</url>
-          <line>17</line>
+          <line>12</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
